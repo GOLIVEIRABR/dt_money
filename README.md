@@ -2,7 +2,6 @@
 
 * Node v.18 LTS 
 * npm v.9 ou superior
-* docker 23.0 ou superior
 
 ## Passo a Passo
 ### Instalação do Ambiente de Desenvolvimento (Pré-requisitos)
